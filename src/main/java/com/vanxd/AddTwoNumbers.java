@@ -75,12 +75,3 @@ public class AddTwoNumbers {
         return head.next;
     }
 }
-
-class ListNode {
-    int val;
-    ListNode next;
-
-    ListNode(int x) {
-        val = x;
-    }
-}
